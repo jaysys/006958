@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/jaysys/006958)](https://repl.it/github/jaysys/006958)
+
 # 006958
 모두의 딥러닝 예제소스
 
